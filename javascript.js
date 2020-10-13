@@ -1,0 +1,1 @@
+$(".hamburgerhk").click(function(event){ $(this).toggleClass("active"); });
